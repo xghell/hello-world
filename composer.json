@@ -1,4 +1,5 @@
 {
   "name": "xghell/hello-world",
-  "description": "this is a hello world programe"
+  "description": "this is a hello world programe",
+  "version": 1.0.0
 }
